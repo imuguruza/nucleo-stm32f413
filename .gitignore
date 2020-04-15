@@ -1,0 +1,6 @@
+**/Debug/
+*.o
+*.su
+*.d
+*.elf
+*.bin
